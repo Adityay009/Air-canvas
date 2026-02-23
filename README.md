@@ -23,7 +23,7 @@ Technologies Used
 Installation Guide:
 
 1. Clone the Repository
-git clone https://github.com/your-username/Air_Canvas-main.git
+git clone https://github.com/Adityay009/Air_Canvas-main.git
 cd Air_Canvas-main
 
 2. Create Virtual Environment
